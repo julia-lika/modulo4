@@ -1,6 +1,6 @@
 # Índice
 
-- [Aula 1 Programação em Arduino e Eletrônica Básica](#1)
+- [Aula 1 - Programação em Arduino e Eletrônica Básica](#1)
   - [Autoestudos](#1-autoestudo)
   - [Instrução](#1-instrucao)
   - [Ponderada](#1-ponderada)
