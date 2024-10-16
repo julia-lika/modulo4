@@ -5,4 +5,4 @@
 - [UX](./materias/ux.md)
 - [Negócios](./materias/negocios.md)
 - [Liderança](./materias/lideranca.md)
-- [Orientação](./materias/orientacao.md)
+- [Orientação](./materias/orientacao.md) (está no `.gitignore` para não expor detalhes do projeto publicamente)
