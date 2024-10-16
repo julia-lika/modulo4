@@ -8,7 +8,7 @@
   --- 
 
 ## <a name="1"></a> Aula 1 - Contexto do parceiro + Indústria 4.0
-### <a name="1-autoestudo"></a> Contexto do parceiro + Indústria 4.0
+### <a name="1-autoestudo"></a> Contexto do parceiro + Indústria 4.0 - Autoestudos
 #### **O que é Indústria 4.0**
 *1. O que é a 4º Revolução Industrial*
 &nbsp;&nbsp;&nbsp;&nbsp;Primeiramente, trabalharemos com as características das outras revoluções:
@@ -53,3 +53,22 @@
 👷 As tecnologias digitais ajudam a mitigar os impactos da pandemia na manufatura, melhorando a segurança dos trabalhadores e a continuidade operacional. Ferramentas como rastreamento remoto e automação aumentam a produtividade e a eficiência, permitindo controle em tempo real da produção. Tecnologias vestíveis, como óculos de realidade aumentada, e automação robótica ajudam a reduzir a necessidade de mão de obra no local. Machine learning e blockchain melhoram a qualidade e a rastreabilidade dos produtos, assegurando maior precisão e controle de qualidade na produção.
 🤖 A entrega de produtos acabados envolve desafios logísticos, intensificados pela COVID-19. Soluções digitais, como torres de controle logísticas e análise de dados em tempo real, melhoram a visibilidade e eficiência das operações, otimizando rotas e alocação de recursos. No armazenamento, a automação, com robôs e drones, otimiza a recuperação de materiais e a inspeção de estoque. Gêmeos digitais podem simular operações ideais, e tecnologias como realidade aumentada e exoesqueletos auxiliam os trabalhadores, reduzindo esforços físicos e aumentando a eficácia.
 🔂 É necessária uma "tripla transformação" necessária para o sucesso da Indústria 4.0, abordando três pilares: negócios, tecnologia e organização. As empresas devem alinhar seus objetivos estratégicos com a digitalização, atualizar seus sistemas de TI/TO para suportar novas tecnologias e construir ecossistemas de parceiros tecnológicos. A governança, o envolvimento da alta gerência e a capacitação digital são cruciais para o sucesso. A pandemia reforçou a importância dessas transformações, que devem ser adotadas de forma holística para criar operações resilientes e ágeis no novo normal.
+
+<br>
+
+---
+
+<br>
+
+### <a name="1-autoestudo"></a> Contexto do parceiro + Indústria 4.0 - Instrução
+&nbsp;&nbsp;&nbsp;&nbsp;As 10 áreas tecnológicas habilitadoras da I4.0:
+- Big Data
+- Cloud
+- Integração de Sistemas
+- IoT
+- Manufatura Aditiva
+- Realidade Aumentada
+- Robôs
+- Segurança
+- Simulação
+- Biologia Sintética
